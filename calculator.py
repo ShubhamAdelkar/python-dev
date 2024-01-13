@@ -1,3 +1,5 @@
+#Simple Calculator
+
 num1 = float(input("Enter a number: "))
 op = (input("Enter a operator: "))
 num2 = float(input("Enter another number: "))
