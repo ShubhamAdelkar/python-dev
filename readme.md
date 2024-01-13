@@ -4,7 +4,7 @@ This repository contains a collection of Python practice problems and exercises.
 
 ## Previews
 
-21 savage - while loop - 
+21 savage - while loop :
 
 ![Alt text](image.png)
 
